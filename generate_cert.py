@@ -1,7 +1,4 @@
-""" # Python code to generate certificates from a list of names
-    # Author : ijas <ijas.dev>
-    # Date : 23 June 2020
-"""
+
 
 from PIL import Image, ImageFont, ImageDraw
 import pandas as pd
